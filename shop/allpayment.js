@@ -1,32 +1,29 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY Ragil
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ belum bikin
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ belum bikin
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ belum bikin
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ belum bikin
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 081318910218
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ belum bikin
 3. DANA
-	ㅁ 0887 4350 47326
-	
-Semuanya atas nama RI****DI
+	ㅁ 0831 3689 0848
 
 *📲 PULSA*
 
-Tidak tersedia
-	
+083136890848
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
 	}
