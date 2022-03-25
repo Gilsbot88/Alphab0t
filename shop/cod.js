@@ -1,5 +1,5 @@
 const list_cod = (prefix) => {
-return `*ZEEONE OFC さ*
+return `*Ragil*
 				
 PROSES	1-60Mnt 1X24 Jam			
 OPEN	10.00-19.00			
@@ -16,7 +16,7 @@ LIST
 3.300CP	Rp 480,000.00
 7.128CP	Rp 950,000.00
 
-Untuk pay / pembayan silahkan ketik ${prefix}pay
+Untuk pay / pembayan silahkan ketik owner ${prefix}pay
 `
 	}
 
