@@ -1,5 +1,5 @@
 const list_aov = (prefix) => {
-return `*ZEEONE OFC さ*
+return `*Ragil*
 			
 PROSES	1-60Mnt Max 1X24 Jam		
 OPEN	08.00-21.00		
@@ -20,7 +20,7 @@ VOUCHER AOV
 24.050VC   Rp 4.845,000.00		
 48.200VC   Rp 9.685,000.00		
 
-Untuk pay / pembayan silahkan ketik ${prefix}pay
+Untuk pay / pembayan silahkan ketik owner ${prefix}pay
 `
 	}
 
