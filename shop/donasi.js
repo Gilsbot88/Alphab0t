@@ -1,27 +1,27 @@
 const donasibot = () => {
-return `DONASI BISA VIA BANK / E-MONEY
+return `DONASI HANYA MELAYANI VIA DANA DAN GOPAY 
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ TIDAK TERSEDIA
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ TIDAK TERSEDIA
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ TIDAK TERSEDIA
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ TIDAK TERSEDIA
 	
 *💰 E-MONEY*
 
-1. GOPAY
-	ㅁ 0887 4350 47326
+1. GOPAY 
+	ㅁ 0813 1891 0218
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ TIDAK TERSEDIA
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0831 3689 0848
 	
-Semuanya atas nama RI****DI
+Ss bukti kalo udah donasi ke owner
 `
 	}
 
