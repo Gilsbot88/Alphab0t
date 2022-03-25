@@ -1,5 +1,5 @@
 const list_lol = (prefix) => {
-return `*ZEEONE OFC さ*
+return `*Ragil*
 				
 PROSES	1-180Mnt 1X24 Jam			
 OPEN	10.00-19.00			
@@ -15,7 +15,7 @@ WC LOLM
 4,000.00WC	Rp 395,000.00			
 8.150WC	Rp 785,000.00			
 				
-Untuk pay / pembayan silahkan ketik ${prefix}pay
+Untuk pay / pembayan silahkan ketik owner ${prefix}pay
 `
 	}
 
