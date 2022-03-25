@@ -1,5 +1,5 @@
 const list_valo = (prefix) => {
-return `*ZEEONE OFC さ*
+return `*Ragil*
 		
 PROSES	1-180Mnt Max 1X24 Jam		
 OPEN	10.00-19.00		
@@ -15,7 +15,7 @@ VALORANT POINT
 4,000.00VP	395,000.00		
 8.150VP	785,000.00		
 			
-Untuk pay / pembayan silahkan ketik ${prefix}pay
+Untuk pay / pembayan silahkan ketik owner ${prefix}pay
 `
 	}
 
