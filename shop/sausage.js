@@ -1,5 +1,5 @@
 const list_sausage = (prefix) => {
-return `*ZEEONE OFC さ*
+return `*Ragil*
 	
 PROSES	1-60Mnt Max 1X24 Jam		
 OPEN	09.00-21.00		
@@ -16,7 +16,7 @@ CANDY SAUSAGE
 3.548C	Rp 682,000.00		
 7.096C	Rp 1.305,000.00		
 			
-Untuk pay / pembayan silahkan ketik ${prefix}pay
+Untuk pay / pembayan silahkan ketik owner ${prefix}pay
 `
 	}
 
